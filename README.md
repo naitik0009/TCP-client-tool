@@ -15,3 +15,13 @@ A simple terminal-based TCP client built in Python for sending and receiving mes
 
    ```bash
    chmod +x tcp_client.py
+
+   ./tcp_client.py
+
+2. Follow the on-screen prompts to:
+
+   Enter the server IP and port
+
+   Type your message
+
+   View the server’s response
